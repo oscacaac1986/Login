@@ -31,7 +31,7 @@ if (!isset($_SESSION['usuario'])) {
     <img src="../img/avataaars.png" width="40" height="40" alt="" loading="lazy">
     Bienvenido: <?php echo $_SESSION['usuario'] ?> 
   </a>
-  <h3><p aling=center class="navbar-nav mr-auto mt-2 mt-lg-0">Sistema de facturacion </p></h3>
+  <h3><p aling=center class="navbar-nav mr-auto mt-2 mt-lg-0">Login en PHP </p></h3>
   
   
   <div class=" navbar-inline">

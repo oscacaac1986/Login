@@ -41,7 +41,7 @@ if (isset($_SESSION["usuario"])) {
                         
                 <button type="submit" class="btn btn-primary" id="bbb"  >Ingresar</button>
             </form>
-            <a href="url">Para recuperar usuario y contraseña click aqui</a>
+            <a href="../login/views/recu_usua.php">Para recuperar usuario y contraseña click aqui</a>
         </div>
         <div class="col-4"></div>
         </div>
